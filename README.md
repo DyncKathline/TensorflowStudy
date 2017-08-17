@@ -27,4 +27,4 @@ t10k-labels-idx1-ubyte.gz:   test set labels (4542 bytes)
 ## 10.Tensorflow_overfitting.py  
 ## 11.Tensorflow_conv2d.py  
 ## 12.Tensorflow_conv2d1.py  
-这里的11、12理解可[参考](http://note.youdao.com/noteshare?id=81b58cad78609b24b3aa37eacf154f51&sub=529A3D63DFB24228A099925F207C3651)  
+这里的11、12理解可[参考](http://note.youdao.com/noteshare?id=81b58cad78609b24b3aa37eacf154f51&sub=529A3D63DFB24228A099925F207C3651)中的“卷积函数 tf.nn.conv2d(input, filter, strides, padding, use_cudnn_on_gpu=None, name=None)”这部分  
